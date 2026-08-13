@@ -1,6 +1,6 @@
 # Gonzalo Colina
 
-Graduado en **Ingeniería Informática** por la [Universidad de Valladolid](https://www.uva.es/), mención en **Ingeniería de Software** y **Machine Learning**.
+Graduado en **Ingeniería Informática** por la [Universidad de Valladolid](https://www.uva.es/), mención en **Ingeniería de Software** y estudiante de Máster en **Inteligencia Artificial** en la [UNIR](https://www.unir.net/).
 
 ## Proyectos
 
@@ -9,8 +9,8 @@ Graduado en **Ingeniería Informática** por la [Universidad de Valladolid](http
 
 ## Stack
 
-C++ · Java · Spring Boot · Vue · Python · Docker
+Java · Spring Boot · Vue · Python · Docker · C++ · JavaScript · Git
 
 ## Contacto
 
-[gonzalocolina77@gmail.com](mailto:gonzalocolina77@gmail.com)
+[gonzalocolina05@gmail.com](mailto:gonzalocolina05@gmail.com)
