@@ -1,6 +1,6 @@
 # Gonzalo Colina
 
-Graduado en **Ingeniería Informática** por la [Universidad de Valladolid](https://www.uva.es/), mención en **Ingeniería de Software** y estudiante de Máster en **Inteligencia Artificial** en la [UNIR](https://www.unir.net/).
+Graduado en **Ingeniería Informática** por la [Universidad de Valladolid](https://www.uva.es/) mención en **Ingeniería de Software** y estudiante de Máster en **Inteligencia Artificial** en la [UNIR](https://www.unir.net/).
 
 ## Proyectos
 
