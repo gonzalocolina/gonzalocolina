@@ -8,7 +8,7 @@ Graduado en **Ingeniería Informática** por la [Universidad de Valladolid](http
 
 - **[App Pasos de María](https://github.com/gonzalocolina/app-maria-molina)**: Tercer premio en el concurso OnAppExperience. Aplicación Android hecha con Kotlin y Jetpack Compose. Cuanta con imágenes 360º, un mapa funcional con lugares importantes sobre María de Molina y un test multijugador online en tiempo real entre varios dispositivos.
 
-- **[Optiline](https://github.com/gonzalocolina/Optiline)**: Motor de ajedrez UCI. C++20, Python y redes neuronales (NNUE). Entrena una red para evaluar posiciones a partir de millones de partidas y las usa en una búsqueda PVS, con un laboratorio de medición de Elo frente a Stockfish.
+- **[Optiline](https://github.com/gonzalocolina/Optiline)**: Motor de ajedrez UCI +2400 ELO. C++20, Python y redes neuronales (NNUE). Una red neuronal evalúa millones de posiciones de un árbol de búsqueda alpha/beta en milisegundos para obtener la mejor jugada.
 
 ## Stack
 
