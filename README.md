@@ -4,11 +4,11 @@ Graduado en **Ingeniería Informática** por la [Universidad de Valladolid](http
 
 ## Proyectos
 
-- **[Gestión de eventos Marvel Champions](https://github.com/gonzalocolina/tfg-gonzalo-colina)**: TFG. Java 17, Spring Boot, Vue 3, WebSockets y Docker. Coordina en tiempo real partidas presenciales multimesa, preparada para partidas con más de 500 jugadores con latencia mínima. Web preparada y probada para escritorio y móvil.
+- **[Gestión de eventos Marvel Champions](https://github.com/gonzalocolina/tfg-gonzalo-colina)**: TFG. Java 17, Spring Boot, Vue 3, WebSockets y Docker. Coordina en tiempo real partidas presenciales con varias mesas. En pruebas de carga con 100 clientes simultáneos: 0 errores y propagación del estado a todos los clientes en 12 ms (p95). Interfaz de escritorio para organizadores y móvil para jugadores.
 
-- **[App Pasos de María](https://github.com/gonzalocolina/app-maria-molina)**: Tercer premio en el concurso OnAppExperience. Aplicación Android hecha con Kotlin y Jetpack Compose. Cuenta con imágenes 360º, un mapa funcional con lugares importantes sobre María de Molina y un test multijugador online en tiempo real entre varios dispositivos.
+- **[App Pasos de María](https://github.com/gonzalocolina/app-maria-molina)**: Tercer premio en el concurso OnAppExperience y [publicada en Google Play](https://play.google.com/store/apps/details?id=com.edunova.mariamolina). Aplicación Android hecha con Kotlin y Jetpack Compose. Cuenta con imágenes 360º, un mapa funcional con lugares importantes sobre María de Molina y un test multijugador online en tiempo real entre varios dispositivos.
 
-- **[Optiline](https://github.com/gonzalocolina/Optiline)**: Motor de ajedrez UCI +3100 ELO. C++20, Python y redes neuronales (NNUE). Una red neuronal evalúa millones de posiciones de un árbol de búsqueda alpha/beta en milisegundos para obtener la mejor jugada.
+- **[Optiline](https://github.com/gonzalocolina/Optiline)**: Motor de ajedrez UCI de ~3100 Elo (medido frente a Stockfish 18). C++20, Python y redes neuronales (NNUE). Una red neuronal cuantizada evalúa cerca de un millón de posiciones por segundo en un solo hilo dentro de una búsqueda alpha/beta, e incluye el pipeline completo para entrenar y validar sus redes.
 
 ## Stack
 
@@ -16,4 +16,4 @@ Java · Spring Boot · Vue · Python · Kotlin · Docker · C++ · JavaScript ·
 
 ## Contacto
 
-[gonzalocolina05@gmail.com](mailto:gonzalocolina05@gmail.com)
+[gonzalocolina05@gmail.com](mailto:gonzalocolina05@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gonzalo-colina-b%C3%A1scones-965361330/)
