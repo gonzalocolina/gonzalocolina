@@ -10,7 +10,7 @@ Graduado en **Ingeniería Informática** por la [Universidad de Valladolid](http
 
 - **[Optiline](https://github.com/gonzalocolina/Optiline)**: Motor de ajedrez UCI de ~3100 Elo (medido frente a Stockfish 18). C++20, Python y redes neuronales (NNUE). Una red neuronal cuantizada evalúa cerca de un millón de posiciones por segundo en un solo hilo dentro de una búsqueda alpha/beta, e incluye el pipeline completo para entrenar y validar sus redes.
 
-- **[Aquilae](https://github.com/gonzalocolina/Aquilae)**: Juego educativo web tipo Risk sobre el Imperio Romano, **probado en el aula en 3 centros con alumnado de Secundaria y Bachillerato** dentro del Proyecto de Investigación Docente *PhilHum Games*. JavaScript sin framework, Leaflet y Turf.js: la vecindad entre provincias se calcula sobre su geometría real, con rutas marítimas que evitan cruzar tierra, e incluye un editor para que el profesorado cree sus propias preguntas sin programar. [Jugar aquí](https://gonzalocolina.github.io/Aquilae/).
+- **[Aquilae](https://github.com/gonzalocolina/Aquilae)**: Juego educativo web tipo Risk sobre el Imperio Romano, **probado en el aula en 3 centros con alumnado de Secundaria y Bachillerato** dentro del Proyecto de Investigación Docente [*PhilHum-Games+*](https://philid.uva.es/pid_philhum_games_plus/) de la Universidad de Valladolid. JavaScript sin framework, Leaflet y Turf.js: la vecindad entre provincias se calcula sobre su geometría real, con rutas marítimas que evitan cruzar tierra, e incluye un editor para que el profesorado cree sus propias preguntas sin programar. [Jugar aquí](https://gonzalocolina.github.io/Aquilae/).
 
 ## Stack
 
