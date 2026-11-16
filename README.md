@@ -4,7 +4,7 @@ Graduado en **Ingeniería Informática** por la [Universidad de Valladolid](http
 
 ## Proyectos
 
-- **[Gestión de eventos Marvel Champions](https://github.com/gonzalocolina/tfg-gonzalo-colina)**: TFG. Java 17, Spring Boot, Vue 3, WebSockets y Docker. Coordina en tiempo real partidas presenciales con varias mesas. En pruebas de carga con 100 clientes simultáneos: 0 errores y propagación del estado a todos los clientes en 12 ms (p95). Interfaz de escritorio para organizadores y móvil para jugadores.
+- **[Gestión de eventos Marvel Champions](https://github.com/gonzalocolina/tfg-gonzalo-colina)**: TFG (calificación 9,7/10). Java 17, Spring Boot, Vue 3, WebSockets y Docker. Coordina en tiempo real partidas presenciales con varias mesas. En pruebas de carga con 100 clientes simultáneos: 0 errores y propagación del estado a todos los clientes en 12 ms (p95). Interfaz de escritorio para organizadores y móvil para jugadores.
 
 - **[App Pasos de María](https://github.com/gonzalocolina/app-maria-molina)**: Tercer premio en el concurso OnAppExperience y [publicada en Google Play](https://play.google.com/store/apps/details?id=com.edunova.mariamolina). Aplicación Android hecha con Kotlin y Jetpack Compose. Cuenta con imágenes 360º, un mapa funcional con lugares importantes sobre María de Molina y un test multijugador online en tiempo real entre varios dispositivos.
 
